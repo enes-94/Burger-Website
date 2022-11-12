@@ -1,0 +1,13 @@
+.home{
+  background: url('bg4.jpg') rgba(0, 0, 0, 0.7);
+  background-blend-mode: overlay;
+  min-height: 650px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 200px;
+}
+
+.btn:hover{
+  color: white;
+}
